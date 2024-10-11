@@ -1,0 +1,23 @@
+Token: 0, Lexema: inteiro, Descricao: Tipo inteiro
+Token: 29, Lexema: i, Descricao: Identificador
+Token: 23, Lexema: ;, Descricao: Separador de comandos (;)
+Token: 29, Lexema: i, Descricao: Identificador
+Token: 22, Lexema: =, Descricao: Operador de atribuição (=)
+Token: 30, Lexema: 0, Descricao: Número inteiro
+Token: 23, Lexema: ;, Descricao: Separador de comandos (;)
+Token: 5, Lexema: enquanto, Descricao: Estrutura de repetição (enquanto)
+Token: 25, Lexema: (, Descricao: Parêntese de abertura (()
+Token: 29, Lexema: i, Descricao: Identificador
+Token: 16, Lexema: <, Descricao: Operador menor que (<)
+Token: 30, Lexema: 5, Descricao: Número inteiro
+Token: 26, Lexema: ), Descricao: Parêntese de fechamento ())
+Token: 27, Lexema: {, Descricao: Chave de abertura ({)
+Token: 29, Lexema: i, Descricao: Identificador
+Token: 22, Lexema: =, Descricao: Operador de atribuição (=)
+Token: 25, Lexema: (, Descricao: Parêntese de abertura (()
+Token: 29, Lexema: i, Descricao: Identificador
+Token: 10, Lexema: +, Descricao: Operador de soma (+)
+Token: 30, Lexema: 1, Descricao: Número inteiro
+Token: 26, Lexema: ), Descricao: Parêntese de fechamento ())
+Token: 23, Lexema: ;, Descricao: Separador de comandos (;)
+Token: 28, Lexema: }, Descricao: Chave de fechamento (})

@@ -1,0 +1,15 @@
+Árvore Sintática Abstrata:
++-- Programa
+   +-- Declaracoes
+      +-- inteiro
+         +-- x
+   +-- Corpo
+      +-- Se
+         +-- Operador maior que (>)
+            +-- x
+            +-- 10
+         +-- Corpo
+            +-- Mostrar
+               +-- x
+               +-- Ler
+                  +-- x

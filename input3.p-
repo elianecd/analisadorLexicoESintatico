@@ -1,0 +1,5 @@
+inteiro a;
+inteiro b;
+real c;
+se (a < 5) entao
+    b = 10;

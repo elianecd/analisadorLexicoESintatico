@@ -1,0 +1,18 @@
+Árvore Sintática Abstrata:
++-- Programa
+   +-- Declaracoes
+      +-- inteiro
+         +-- i
+   +-- Corpo
+      +-- Atribuicao
+         +-- i
+         +-- Enquanto
+            +-- Operador menor que (<)
+               +-- i
+               +-- 5
+            +-- Corpo
+               +-- Atribuicao
+                  +-- i
+                  +-- +
+                     +-- i
+                     +-- 1

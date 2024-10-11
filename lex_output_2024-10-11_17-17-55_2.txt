@@ -1,0 +1,24 @@
+Token: 0, Lexema: inteiro, Descricao: Tipo inteiro
+Token: 29, Lexema: x, Descricao: Identificador
+Token: 23, Lexema: ;, Descricao: Separador de comandos (;)
+Token: 1, Lexema: real, Descricao: Tipo real
+Token: 29, Lexema: y, Descricao: Identificador
+Token: 23, Lexema: ;, Descricao: Separador de comandos (;)
+Token: 2, Lexema: se, Descricao: Início de estrutura condicional (se)
+Token: 25, Lexema: (, Descricao: Parêntese de abertura (()
+Token: 29, Lexema: x, Descricao: Identificador
+Token: 18, Lexema: >, Descricao: Operador maior que (>)
+Token: 30, Lexema: 10, Descricao: Número inteiro
+Token: 26, Lexema: ), Descricao: Parêntese de fechamento ())
+Token: 3, Lexema: entao, Descricao: Bloco então
+Token: 9, Lexema: mostrar, Descricao: Comando de saída (mostrar)
+Token: 25, Lexema: (, Descricao: Parêntese de abertura (()
+Token: 29, Lexema: x, Descricao: Identificador
+Token: 26, Lexema: ), Descricao: Parêntese de fechamento ())
+Token: 23, Lexema: ;, Descricao: Separador de comandos (;)
+Token: 4, Lexema: senao, Descricao: Bloco senão
+Token: 8, Lexema: ler, Descricao: Comando de entrada (ler)
+Token: 25, Lexema: (, Descricao: Parêntese de abertura (()
+Token: 29, Lexema: x, Descricao: Identificador
+Token: 26, Lexema: ), Descricao: Parêntese de fechamento ())
+Token: 23, Lexema: ;, Descricao: Separador de comandos (;)

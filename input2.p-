@@ -1,0 +1,6 @@
+inteiro x;
+real y;
+se (x > 10) entao
+    mostrar (x);
+senao
+    ler (x);

@@ -1,0 +1,5 @@
+inteiro i;
+i = 0;
+enquanto (i < 5) {
+    i = (i + 1);
+}

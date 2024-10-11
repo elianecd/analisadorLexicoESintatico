@@ -1,0 +1,13 @@
+# ninja log v6
+5	747	7503677614001112	build.ninja	f401e9d863975e55
+6	344	7503807390354395	CMakeFiles/analisadorSintatico.dir/main.c.obj	81aa8751270bc656
+14	523	7503797474560503	CMakeFiles/analisadorSintatico.dir/lexer.c.obj	b24ce7c2587e5358
+6	298	7503757195498126	CMakeFiles/analisadorSintatico.dir/syntaxTree.c.obj	ab561ecff7cff233
+373	2256	7503807394022380	analisadorSintatico.exe	cce19d11067cc3f6
+26	373	7503807390560779	CMakeFiles/analisadorSintatico.dir/parser.c.obj	2cc1aacd7a919911
+12	332	7503808472284823	CMakeFiles/analisadorSintatico.dir/parser.c.obj	2cc1aacd7a919911
+334	749	7503808475496954	analisadorSintatico.exe	cce19d11067cc3f6
+5	362	7503810318762077	CMakeFiles/analisadorSintatico.dir/main.c.obj	81aa8751270bc656
+53	428	7503810319247445	CMakeFiles/analisadorSintatico.dir/parser.c.obj	2cc1aacd7a919911
+30	459	7503810319012145	CMakeFiles/analisadorSintatico.dir/lexer.c.obj	b24ce7c2587e5358
+459	859	7503810323304184	analisadorSintatico.exe	cce19d11067cc3f6
